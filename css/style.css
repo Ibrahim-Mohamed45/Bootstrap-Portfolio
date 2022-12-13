@@ -146,6 +146,14 @@ h2 {
     margin: 20px;
 }
 
+.card-img-top {
+    height: 30vh;
+}
+
+.card-text {
+    text-align: center;
+}
+
 #contact {
     margin: 20px;
 }
@@ -154,3 +162,5 @@ h2 {
     font-size: 22px;
     color: white;
 }
+
+
