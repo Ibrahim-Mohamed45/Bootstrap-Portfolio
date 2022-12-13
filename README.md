@@ -30,7 +30,7 @@ A work section:
 
 
 The live website looks like this:
-<img src="images\portfolio.png" alt="Image of what the porfolio should look like.">
+<img src="images\Portfolio.png" alt="Image of what the porfolio should look like.">
 
 ## Installation
 
