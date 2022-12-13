@@ -163,4 +163,17 @@ h2 {
     color: white;
 }
 
+.footer {
+    padding: 20px;
+    text-align: center;
+    background-color: darkgray;
+}
+
+.footer h5 {
+    font-size: 20px;
+}
+
+.github-icon {
+    color: black;
+}
 
