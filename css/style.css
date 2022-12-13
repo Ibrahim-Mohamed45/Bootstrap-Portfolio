@@ -48,6 +48,7 @@ body {
 .lead {
     text-align: center;
 }
+
 .item {
     padding: 20px;
     position: absolute;
@@ -58,13 +59,13 @@ body {
 }
 
 .btn-primary {
-    color: white !important; 
+    color: white !important;
     background-color: #e44e58 !important;
     border-color: #e44e58 !important;
 }
 
 .btn-primary:hover {
-    box-shadow:  10px 10px 16px blue;
+    box-shadow: 10px 10px 16px blue;
 }
 
 .socials ul {
@@ -139,7 +140,7 @@ h2 {
     margin: 20px;
 }
 
-.skills-images{
+.skills-images {
     width: 150px;
     height: 150px;
     display: block;
@@ -159,15 +160,19 @@ h2 {
     color: blue;
 }
 
-.card-body{
+.card-body {
     color: white !important;
-    background: darkgray !important; 
-}
-  
-.card:hover{
-    box-shadow:  10px 10px 16px blue;
+    background: darkgray !important;
 }
 
+.card:hover {
+    box-shadow: 10px 10px 16px blue;
+}
+
+.card ul {
+    text-align: center;
+    list-style-type: none;
+}
 #work {
     margin: 20px;
 }
@@ -184,7 +189,7 @@ h2 {
     margin: 20px;
 }
 
-#contact a{
+#contact a {
     font-size: 22px;
     color: white;
 }
@@ -202,4 +207,3 @@ h2 {
 .github-icon {
     color: black;
 }
-
