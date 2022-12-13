@@ -6,7 +6,7 @@ This repository was created to complete challenge 3 for the front-end web develo
 
 ## Live Website
 
-My live portfolio can be found here: <a href="https://ibrahim-mohamed45.github.io/Module-2-Challenge-Portfolio-EDx-Bootcamp/" target="_blank"> My Bootstrap portfolio</a>
+My live portfolio can be found here: <a href="https://ibrahim-mohamed45.github.io/Bootstrap-Portfolio/" target="_blank"> My Bootstrap portfolio</a>
 
 ## Acceptance Criteria
 
@@ -34,7 +34,7 @@ The live website looks like this:
 
 ## Installation
 
-This can be deployed on any server or client with a browser. <a href="https://ibrahim-mohamed45.github.io/Module-2-Challenge-Portfolio-EDx-Bootcamp/" target="_blank">Link to my bootstrap porfolio</a>
+This can be deployed on any server or client with a browser. <a href="https://ibrahim-mohamed45.github.io/Bootstrap-Portfolio/" target="_blank">Link to my bootstrap porfolio</a>
 
 ## Credits
 
